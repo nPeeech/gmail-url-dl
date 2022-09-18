@@ -1,4 +1,4 @@
-# File Downloader from Gmail
+# gmail-url-dl
 
 Gmail APIを用いて、指定された検索条件に合致するメールに記載されたURLの先のファイルをダウンロードします。
 
