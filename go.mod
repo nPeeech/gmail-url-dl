@@ -1,4 +1,4 @@
-module f360_email_archive_file_dl
+module gmail_url_dl
 
 go 1.18
 
